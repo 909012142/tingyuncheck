@@ -1,5 +1,3 @@
-#!/bin/bash
-# this is a test bash shell
+杜拉进来的
 
-echo "测试github账户提交代码"
 
